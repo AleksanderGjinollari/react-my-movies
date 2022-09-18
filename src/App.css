@@ -17,7 +17,7 @@ h2 {
   font-size: 0.8rem;
 }
 
-.filter-container button {
+.filter-container button, .filter-container input {
   margin-right: 2rem;
   min-width: 5rem;
   padding: 0.5rem 1rem;
